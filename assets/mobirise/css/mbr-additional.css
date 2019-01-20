@@ -2174,6 +2174,13 @@ body {
     padding-top: 1rem;
   }
 }
+.cid-rfFDHL5nHv .card-title B {
+  color: #ff3366;
+}
+.cid-rfFDHL5nHv .card-title {
+  text-align: center;
+  color: #232323;
+}
 .cid-rfFyH7zxwY {
   padding-top: 0px;
   padding-bottom: 90px;
@@ -2230,6 +2237,9 @@ body {
   .cid-rfFyH7zxwY .wrapper {
     padding-top: 1rem;
   }
+}
+.cid-rfFyH7zxwY .card-title B {
+  color: #ff3366;
 }
 .cid-rfFm7m7a1d .navbar {
   background: #ffffff;
@@ -2716,6 +2726,12 @@ body {
   .cid-rfFHh2P7Ce .wrapper {
     padding-top: 1rem;
   }
+}
+.cid-rfFHh2P7Ce .card-title {
+  color: #232323;
+}
+.cid-rfFHh2P7Ce .card-title B {
+  color: #ff3366;
 }
 .cid-rfFHh6NI6K .navbar {
   background: #ffffff;
@@ -3703,7 +3719,7 @@ body {
   }
 }
 .cid-rfFSizxBUE .card-title DIV {
-  color: #149dcc;
+  color: #232323;
 }
 .cid-rfFSiC0hLy .navbar {
   background: #ffffff;
@@ -4197,6 +4213,9 @@ body {
 .cid-rfFWwQlmpy .card-title FONT {
   color: #232323;
 }
+.cid-rfFWwQlmpy .card-title B {
+  color: #ff3366;
+}
 .cid-rfFWwS23cw .navbar {
   background: #ffffff;
   transition: none;
@@ -4688,6 +4707,9 @@ body {
 }
 .cid-rfG4L1CvR1 .card-title FONT {
   color: #232323;
+}
+.cid-rfG4L1CvR1 .card-title B {
+  color: #ff3366;
 }
 .cid-rfG4LafEaj .navbar {
   background: #ffffff;

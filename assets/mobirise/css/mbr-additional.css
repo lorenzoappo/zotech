@@ -3161,6 +3161,7 @@ body {
 }
 .cid-rfFPnFcU1V .bottom-line p {
   color: #232323;
+  text-align: left;
 }
 .cid-rfFPnFcU1V .card-wrapper {
   background-color: #ffffff;
@@ -3202,6 +3203,18 @@ body {
   .cid-rfFPnFcU1V .wrapper {
     padding-top: 1rem;
   }
+}
+.cid-rfFPnFcU1V .bottom-line p B {
+  color: #ff3366;
+}
+.cid-rfFPnFcU1V .card-title {
+  color: #232323;
+}
+.cid-rfFPnFcU1V .card-title B {
+  color: #ff3366;
+}
+.cid-rfFPnFcU1V .card-title DIV {
+  color: #232323;
 }
 .cid-rfFOVayGUN .navbar {
   background: #ffffff;
